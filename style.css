@@ -1,8 +1,8 @@
 * {
   font-family: alice-regular;
   font-family: "Alice", serif;
-  font-weight: 400;
-  font-style: normal;
+  line-height: 150%;
+  color: #573A37;
 }
 body {
   background-image: url(./assents/bg.jpg);
@@ -23,9 +23,12 @@ img {
 }
 h1 {
   font-size: 40px;
+  line-height: 140%;
+  color: #291B1A;
 }
 h2 {
   font-size: 24px;
+  color: #291B1A;
 }
 footer {
   color: #F0E8C2;
